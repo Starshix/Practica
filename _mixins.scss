@@ -1,0 +1,6 @@
+@mixin font_style($fontsize, $fontweight, $fontcolor) {
+    font-size: $fontsize;
+    font-weight: $fontweight;
+    color: $fontcolor;
+    font-family: "Montserrat", serif;
+}
